@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Thijs Dregmans (@tdregmans)
 - 👀 I’m interested in Programming, Running, Self-improvement, Writing, Investing, Reading
-- 🌱 I’m currently learning about C++
+- 🌱 I’m currently learning about Haskell
 - 💻 I'm using Github to store software I wrote
 - 🎓 I'm currently studying at the Hogeschool Rotterdam (HBO level) in the Netherlands 🇳🇱
 
